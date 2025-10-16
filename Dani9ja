@@ -1,0 +1,13 @@
+/pages
+ ├── index.jsx           → Dashboard (like your screenshot)
+ ├── register.jsx        → Registration page
+ ├── login.jsx           → Login page
+ ├── api/
+ │    ├── register.js    → Handle registration
+ │    └── login.js       → Handle login
+/components
+ ├── Navbar.jsx
+ ├── BottomNav.jsx
+ ├── BalanceCard.jsx
+ ├── RewardButton.jsx
+ └── FeatureGrid.jsx
